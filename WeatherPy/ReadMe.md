@@ -2,7 +2,7 @@
 ## _Submitted November 03, 2020_
 ### _By: Jim Tran_
 
-![equatorsign](GitHub/UofT-BCS-Python-API-Challenge/Images/equatorsign.png)
+![equatorsign](/..Images/equatorsign.png)
 
 *The main objective of the Pymaceuticals homework assignment is to develop pandas scripts and matplotlib to analyze the results of tumor volumes as a result of different drug regimen across a population of mice. Given 2 raw data files in csv format; the 'Mouse_metadata.csv' and the 'Study_results.csv'.  The [Mouse_metadata](Images/MouseMetadata.png) data has 249 records describe by each unique 'Mouse ID' with their 'Drug Regimen', their 'Sex', 'Age' and 'Weight'. The [Study_results](Images/StudyResults.png) data is categorized with 'Mouse ID' along with columns for 'Timepoints, 'Tumor Volume' and 'Metastatic Sites'.  The 2 datasets were merged on Mouse ID to consolidate the data columns to determine the final total number of mice after the duplicate data from [mouse_ID_989](Images/DuplicatedMouseData.png) is removed resulting in a clean dataset with 1,880 unique records and 248 total mice count as an additional mouse ID g989 is found in index and also removed.*
 
