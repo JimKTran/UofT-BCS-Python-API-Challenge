@@ -5,9 +5,9 @@
 ![equatorsign](Final_Outputs/equatorsign.png)
 ==============================================
 
-*The main objective of the WeatherPy homework assignment is to develop pandas scripts and matplotlib plots along with API call data to analyze the weather data from OpenWeatherMap API using Citipy random city calls.  Citypy must be installed and OpenWeatherMap API must be obtained first before starting the the assignment.  A script is provided to randomly generate 500 cities for weather lookup for analysis.*  
+*The main objective of the WeatherPy homework assignment is to develop pandas scripts and matplotlib plots along with API call data to analyze the weather data from OpenWeatherMap API using Citipy random city calls.  Citipy must be installed and OpenWeatherMap API must be obtained first before starting the the assignment.  A script is provided to randomly generate 500 cities for weather lookup for analysis.*  
 
-*Initially, API calls are performed to check the weather of each random city from Citypy.  The results are printed out in a log that identifies each city found and cities that are not found.  The data is then dumped into a dataframe for analyis and plotting/graphing.*
+*Initially, API calls are performed to check the weather of each random city from Citipy.  The results are printed out in a log that identifies each city found and cities that are not found.  The data is then dumped into a dataframe for analyis and plotting/graphing.*
 
 *The first plot produced is the [Latitude_vs_Temperature](Final_Outputs/Latitude_Temperature.png) graph.  The data show city temperatures are highest/hottest with cities located closer to 0 latitude or the equator.  Additionally, city temperatures are lowest/coldest with cities in the northern hemisphere 
 (latitudes greater than 0); and conversely, city temperatures are higher/hotter with cities in the southern hemisphere (latitudes less than 0).* 
